@@ -1,2 +1,2 @@
-# spider-of-luoxia-noval-
+# spider-of-luoxia-novel-
 Using urllib, xpath. To be improved
